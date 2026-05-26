@@ -13,7 +13,19 @@
           "a": "8fb0f06a6aeedb2c",
           "b": "d4116fce67179db8"
         }
+      ]
+    },
 
+    "omdb": {
+
+      "enabled": true,
+
+      "keys": [
+
+        {
+          "a": "b8d3",
+          "b": "f866"
+        }
       ]
     }
   }
