@@ -1,0 +1,21 @@
+{
+  "version": 1,
+
+  "providers": {
+
+    "tmdb": {
+
+      "enabled": true,
+
+      "keys": [
+
+        {
+          "a": "8fb0f06a6aeedb2c",
+          "b": "d4116fce67179db8"
+        }
+
+      ]
+    }
+  }
+}
+
