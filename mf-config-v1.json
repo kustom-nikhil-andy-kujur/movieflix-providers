@@ -13,6 +13,16 @@
         "90a025b9",
         "866ec1aa"
       ]
+    },
+
+    "tmdb": {
+
+      "enabled": true,
+
+      "keys": [
+
+        "8fb0f06a6aeedb2cd4116fce67179db8"
+      ]
     }
   }
 }
